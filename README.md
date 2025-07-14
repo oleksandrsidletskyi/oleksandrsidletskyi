@@ -11,9 +11,9 @@
 - Languages: English (B2), Russian (C2), Ukrainian (C2), Polish (B2)
 
 ## 📁 My Projects
-- [🚨 AML Transaction Monitoring (SQL + Python)]([link](https://github.com/oleksandrsidletskyi/AML-Transaction-Monitoring-SQL-Python))
-- [📊 SQL Compliance Project (SQL)]([link](https://github.com/oleksandrsidletskyi/SQL-Compliance-Project))
-- [📄 AML/KYC Simulation Project]([link](https://github.com/oleksandrsidletskyi/AML-KYC-Simulation-Project))
+- [🚨 AML Transaction Monitoring (SQL + Python)](https://github.com/oleksandrsidletskyi/AML-Transaction-Monitoring-SQL-Python)
+- [📊 SQL Compliance Project (SQL)](https://github.com/oleksandrsidletskyi/SQL-Compliance-Project)
+- [📄 AML/KYC Simulation Project](https://github.com/oleksandrsidletskyi/AML-KYC-Simulation-Project)
 
-I'm actively learning and building more. Let's connect on [LinkedIn]([link](https://www.linkedin.com/in/oleksandr-sidletskyi-900377244/))!
+I'm actively learning and building more. Let's connect on [LinkedIn](https://www.linkedin.com/in/oleksandr-sidletskyi-900377244/)!
 
