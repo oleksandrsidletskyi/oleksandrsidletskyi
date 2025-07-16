@@ -7,7 +7,7 @@
 - SQL for transaction monitoring and reporting  
 - Python for data cleaning and anomaly detection  
 - Excel dashboards for risk visualization  
-- AML, KYC, CDD, FATF, 6AMLD  
+- AML, KYC, CDD, EDD, FATCA, FATF, CRS, 6AMLD  
 - Languages: English (B2), Russian (C2), Ukrainian (C2), Polish (B2)
 
 ## 📁 My Projects
